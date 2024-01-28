@@ -1,3 +1,3 @@
 ## TRAINING REPOSITORY
 
-This is for learning.
+This is for learning!
